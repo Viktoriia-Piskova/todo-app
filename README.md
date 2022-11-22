@@ -1,6 +1,5 @@
 # todo-app
 
-This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
@@ -26,4 +25,9 @@ npm run dev
 
 ```sh
 npm run build
+```
+
+### Create vue3 app with Pinia:
+```
+npm init vue@3 => Add Pinia for state management? y
 ```
